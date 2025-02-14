@@ -1,0 +1,6 @@
+{
+    "diagnostics.globals": [
+        "vim",
+        "my_non_existent_function"
+    ]
+}
